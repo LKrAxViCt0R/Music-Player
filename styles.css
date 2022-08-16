@@ -1,0 +1,127 @@
+body {
+    text-align: center;
+    background-color: #283149;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+
+  .foot{
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+  
+  footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+
+  .but{
+    display: inline-block;
+    margin: 10px;
+    margin-right: 98px;
+  }
+  
+  .w1 {
+    background-image: url("album art/judge.jpg");
+    background-size: 150px 150px;
+  }
+  
+  .a2 {
+    background-image: url("album art/insane.jpg");
+    background-size: 150px 150px;
+  }
+  
+  .s3 {
+    background-image: url("album art/mrPerfect.jpg");
+    background-size: 150px 150px;
+  }
+  
+  .d4 {
+    background-image: url("album art/brownRang.jpg");
+    background-size: 150px 150px;
+  }
+  
+  .j5 {
+    background-image: url("album art/na na na.jpeg");
+    background-size: 150px 150px;
+  }
+  
+  .k6 {
+    background-image: url("album art/Sooiyan.jpg");
+    background-size: 150px 150px;
+  }
+  
+  .l7 {
+    background-image: url("album art/hulara.jpg");
+    background-size: 150px 150px;
+  }
+
+  .m8{
+    background-image: url("album art/haule.jpeg");
+    background-size: 150px 150px;
+  }
+  
+  .set {
+    margin: 3% auto;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .player {
+    outline: none;
+    font-size: 3rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+
+  #reload{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 1rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 55px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+
+  .songCred{
+    color: #DBEDF3;
+    font-family: sans-serif;
+    text-align: center;
+  }
